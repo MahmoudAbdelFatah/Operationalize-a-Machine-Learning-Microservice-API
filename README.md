@@ -1,4 +1,4 @@
-https://circleci.com/gh/MahmoudAbdelFatah/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg
+<https://circleci.com/gh/MahmoudAbdelFatah/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg>
 
 ## Project Overview
 
